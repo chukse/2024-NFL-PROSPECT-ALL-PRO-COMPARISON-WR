@@ -1,0 +1,19 @@
+Player	Height	Weight 	Arm length(inch)	Handspan(inch)	40 yd 	vert jump	broad jump	three cone (s) 	20 yd shuffle 	College	Age 	Bench press	caught_percent	contested_catch_rate	drop_rate	grades_hands_drop	grades_offense	grades_pass_route	targeted_qb_rating
+Justin Jefferson	73	202	33	9.125	4.43	37.5	126			LSU	21								
+Tyreek hill 	68	185	30.5	8	4.29	40.5	129	6.53	4.06	West Alabama									
+Davante Adams	72.88	212	32.63	9	4.56	39.5	123	6.82	4.3	fresno st	21	14							
+aj brown	72	226	32.875	9.75	4.49	36.5	120	6.89	4.26	ole miss	22	19							
+stefon diggs	72	195	31.25	10	4.46	35	115	7.02	4.32	maryland	21	11							
+ceedee lamb	73.63	198	32.25	9.25	4.5	34.5	124			oklahoma	21	11							
+cooper kupp	74	204	31.5	9.5	4.62	31	116	6.75	4.08	eastern washington	23	16							
+deebo samuel	71	214	31.375	10	4.48	39	122	7.03	4.14	south carolina 	23	15							
+Jamar Chase	73	200	30.75	9.625	4.34	41	132	6.96	3.99	LSU	21	23							
+Amon Ra St Brown	73	202	30.38	9.125	4.61	38.5	127	6.9	4.26	cal	21	20							
+Brandon Aiyuk	72	205	33.5	9.75	4.5	40	128			arizona st 	21	11							
+Puka Nacua	73.625	201	31.5	9.5	4.57	33	121	7.32		byu									
+Nico Collins	76	215	34.125	9.375	4.45	37.5	125	6.79	4.32	michigan	22	14							
+DJ Moore	72	210	31.625	9	4.42	39.5	132	6.95	4.07	maryland	21	15							
+Average 	72.58107143	204.9285714	31.94714286	9.384615385	4.48	37.35714286	124.2857143	6.8625	4.17625		21.5	15.55555556	68.5875	50.47142857	7.379166667	71.37916667	77.92083333	78	122.525
+
+
+

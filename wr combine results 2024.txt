@@ -1,0 +1,47 @@
+Name	School	Year	Position	Rank(by experts)	height	weight	40 yd dash	WINGSPAN	ARMLENGTH	HAND SIZE
+Marvin Harrison Jr.	Ohio State	Jr	WR	1	6-4	205		77.25	31.88	9.50
+Rome Odunze	Washington	Jr	WR	2	6-3	215		76.75	32.25	9.25
+Malik Nabers	LSU	Jr	WR	3	6-0	200				
+Keon Coleman	Florida State	Jr	WR	4	6-4	215	4.61	78.13	32.13	9.38
+Brian Thomas Jr.	LSU	Jr	WR	5	6-4	205	4.33	79.63	32.75	9.75
+Xavier Worthy	Texas	Jr	WR	6	6-1	172	4.22	74.25	31.13	8.75
+Troy Franklin	Oregon	Jr	WR	7	6-3	187	4.41	77.25	31.88	8.75
+Malachi Corley	W. Kentucky	Jr	WR	8	5-11	210				
+Ainias Smith	Texas A&M	Sr	WR	9	5-10	200		70.25	29.00	8.50
+Tory Horton	Colorado St.	Sr	WR	10	6-2	190				
+Jermaine Burton	Alabama	Sr	WR	11	6-0	194	4.45	74.88	31.00	9.88
+Adonai Mitchell	Texas	Jr	WR	12	6-4	196	4.34	77.63	32.38	9.00
+Dominic Lovett	Georgia	Jr	WR	13	5-10	179				
+Jacob Cowing	Arizona	Sr	WR	14	5-11	175	4.38	69.13	29.25	9.00
+Xavier Legette	South Carolina	Sr	WR	15	6-3	227	4.39	77.50	31.88	9.00
+Devontez Walker	North Carolina	Jr	WR	16	6-2	200	4.36	79.13	33.25	9.13
+Ja'Lynn Polk	Washington	Soph	WR	17	6-2	204	4.52	74.50	31.75	9.75
+Johnny Wilson	Florida State	Jr	WR	18	6-7	237	4.52	84.50	35.38	10.00
+Roman Wilson	Michigan	Sr	WR	19	6-0	192	4.39	72.50	30.38	9.38
+Ladd McConkey	Georgia	Jr	WR	20	6-0	185	4.39	72.00	30.25	8.63
+Javon Baker	UCF		WR	20	6-1	208					
+Jermaine Burton	Alabama	jr	WR	20	6-0	194	4.45	74.50	31.00	9.88
+Jalen Coker	holy cross		WR	20	6-1	213	4.57	76.75	32.88	9.88
+Jacob Cowing	arizona		WR	20	5-8	168	4.38	69.125	29.25	9
+Ryan Flournoy 	Southeast missouri st		WR	20	6-1	202	4.44	76.125	31.625	10.125
+Anthony Gould	Oregon st		WR	20	5-8	174	4.39	69.875	29.625	8.875
+Lideatrick Griffin	Mississippi State		WR	20	5-10	181	4.43	72.75	30.625	9.125
+Jah'Quan Jackson 	Tulane		WR	20	5-9	188	4.42	74.875	30.875	8.875
+Cornelius Johnson 	Michigan		WR	20	6-3	212	4.44	77.25	31.875	8.625
+Luke McCaffrey 	Rice		WR	20	6-2	198	4.46	74.5	30.125	9.625
+Jalen McMillan 	Washington		WR	20	6-1	197	4.47	77.375	32.125	10
+Bub Means 	Pittsburgh		WR	20	6-1	212	4.43	79.375	33.25	10.125
+Ricky Pearsall 	Florida 		WR	20	6-1	189	4.41	73.375	30.875	9.25
+Brenden Rice	USC		WR	20	6-2	208	4.5	78	33	9.625
+Tayvion Robinson	Kentucky		WR	20	5-11	191		75.25	31	9.25
+Marcus Rosemy-Jacksaint			WR	20	6-1	195		77.75	33	10
+Ainias Smith	Texas A&m		WR	20	5-9	190		70.25	29	8.5
+Jamari Thrash	Louisville		WR	20	6-0	188	4.46	74.5	31	8.625
+Devaughn Vele	Utah		WR	20	6-4	203	4.47	79.125	33.5	9.75
+Malik Washington	Virginia		WR	20	5-9	191	4.47	72.875	30.375	9.25
+Tahj Washington	USC		WR	20	5-10	174		70	29.125	8.375
+Zay Weaver	Colorado		WR	20	6-0	169		73.25	31.125	8.875
+Jordan Whittington	Texas		WR	20	6-1	205		73.625	30.375	10
+Johnny Wilson	florida state		WR	20	6-6	231	4.52	84.5	35.375	10
+Roman Wilson	Michigan		WR	20	5-11	185	4.39	72.5	30.375	9.375
+Isaiah Williams	Illinois		WR	20	5-9	182	4.63	72.75	30.125	9.125

@@ -1,0 +1,18 @@
+Name	School	Year	Position	Rank(by experts)	height	weight	40 yd dash	WINGSPAN	ARMLENGTH	HAND SIZE
+Marvin Harrison Jr.	Ohio State	Jr	WR	1	6-4	205		77.25	31.88	9.50   
+Malik Nabers	LSU	Jr	WR	3	6-0	200				
+Brian Thomas Jr.	LSU	Jr	WR	5	6-4	205	4.33	79.63	32.75	9.75    1.50
+Malachi Corley	W. Kentucky	Jr	WR	8	5-11	210				
+Adonai Mitchell	Texas	Jr	WR	12	6-4	196	4.34	77.63	32.38	9.00    1.52
+Devontez Walker	North Carolina	Jr	WR	16	6-2	200	4.36	79.13	33.25	9.13    1.54
+Ja'Lynn Polk	Washington	Soph	WR	17	6-2	204	4.52	74.50	31.75	9.75    1.52
+Javon Baker	UCF		WR	20	6-1	208					
+Ryan Flournoy 	Southeast missouri st		WR	20	6-1	202	4.44	76.125	31.625	10.125  1.53
+Cornelius Johnson 	Michigan		WR	20	6-3	212	4.44	77.25	31.875	8.625   1.55
+Luke McCaffrey 	Rice		WR	20	6-2	198	4.46	74.5	30.125	9.625   1.52
+Jalen McMillan 	Washington		WR	20	6-1	197	4.47	77.375	32.125	10  1.53
+Bub Means 	Pittsburgh		WR	20	6-1	212	4.43	79.375	33.25	10.125  1.55
+Brenden Rice	USC		WR	20	6-2	208	4.5	78	33	9.625   1.55
+Marcus Rosemy-Jacksaint			WR	20	6-1	195		77.75	33	10
+Devaughn Vele	Utah		WR	20	6-4	203	4.47	79.125	33.5	9.75    1.53
+Jordan Whittington	Texas		WR	20	6-1	205		73.625	30.375	10
